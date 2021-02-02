@@ -1,8 +1,4 @@
 //IMPORT FILE SYSTEM MODULE
 var fs = require('fs');
 
-//from wtc file
-
- function wtc(input) {
-    console.log(input)
-}
+console.log("Static message written to console: Hello from first file!")
